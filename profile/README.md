@@ -2,15 +2,17 @@
 
 Welcome to the official GitHub organization for **PickFlo**. We are dedicated to creating innovative tools and solutions for modern web development.
 
-## 🚀 Our Projects
+## 🚀 프로젝트 소개
+---
 
 - [Project Alpha](https://github.com/PickFlo/ProjectAlpha) - An open-source web development framework.
 - [Project Beta](https://github.com/PickFlo/ProjectBeta) - A library for building responsive UI components.
 
-## 📚 Documentation
+## 📚 팀원 소개
+---
 
-For detailed documentation, please visit our [documentation site](https://docs.pickflo.com).
 
+**김지현** **구선아**
 ## 🤝 Contributing
 
 We welcome contributions! Please check out our [contribution guidelines](https://github.com/PickFlo/.github/blob/main/CONTRIBUTING.md) to get started.

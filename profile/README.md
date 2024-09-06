@@ -1,8 +1,8 @@
-# Welcome to PickFlo!
+# 🎥 PickFlo 🎥
 
 
 
-## 🎥 프로젝트 소개
+## 📝 프로젝트 소개
 
 - 맞춤형 영화 추천 사이트
 

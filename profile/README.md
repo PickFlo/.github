@@ -16,7 +16,7 @@
 
 
 **Front-End**
-<img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 **Back-End**
 

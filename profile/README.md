@@ -4,8 +4,7 @@ Welcome to the official GitHub organization for **PickFlo**. We are dedicated to
 
 ## 🎥 프로젝트 소개
 
-- [Project Alpha](https://github.com/PickFlo/ProjectAlpha) - An open-source web development framework.
-- [Project Beta](https://github.com/PickFlo/ProjectBeta) - A library for building responsive UI components.
+- 
 
 ## 🧑‍🤝‍🧑 팀원 소개
 

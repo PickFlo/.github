@@ -4,7 +4,7 @@ Welcome to the official GitHub organization for **PickFlo**. We are dedicated to
 
 ## 🎥 프로젝트 소개
 
-- 
+- 맞춤형 영화 추천 사이트
 
 ## 🧑‍🤝‍🧑 팀원 소개
 

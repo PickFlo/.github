@@ -13,11 +13,11 @@
 ## 📂 ERD 구조
 
 ## 🛠️ 기술 스택
-Front-End
+-Front-End
 
-Back-End
+-Back-End
 
-Production & Deploy
+-Production & Deploy
 
-Collaboration tool
+-Collaboration tool
 

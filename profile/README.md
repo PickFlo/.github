@@ -1,8 +1,8 @@
 # 🎥 PickFlo 🎥
 
 
-
 ## 📝 프로젝트 소개
+
 
 - 맞춤형 영화 추천 사이트
 
@@ -13,11 +13,13 @@
 ## 📂 ERD 구조
 
 ## 🛠️ 기술 스택
--Front-End
 
--Back-End
 
--Production & Deploy
+**Front-End**
 
--Collaboration tool
+**Back-End**
+
+**Production & Deploy**
+
+**Collaboration tool**
 

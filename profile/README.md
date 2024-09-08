@@ -1,4 +1,3 @@
-# 🎥 PickFlo 🎥
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=141414&height=150&section=header&text=PickFlo&fontColor=E50913&fontSize=70&animation=fadeIn&fontAlignY=55)

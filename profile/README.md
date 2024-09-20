@@ -1,4 +1,4 @@
-<div align="center">
+
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=141414&height=150&section=header&text=PickFlo&fontColor=E50913&fontSize=70&animation=fadeIn&fontAlignY=55)
 
@@ -47,5 +47,5 @@
   
   <img src="https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
 
-</div>
+
 
